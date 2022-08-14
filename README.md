@@ -1,4 +1,4 @@
 # cpp_practice
-Here is all some problems which I have solved while I was learnig the c++<br>
+Here are some problems which I have solved while I was learnig the c++ programming<br>
 If you want you can check out the solutions<br>
-There are some common uses problem which I have solved.
+There are some common uses of problems which I have solved.
